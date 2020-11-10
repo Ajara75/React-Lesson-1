@@ -1,0 +1,30 @@
+.header {
+    padding-top: 60px;
+}
+.img {
+    max-width: 18px;
+}
+.header__top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__cart,
+.header__phone {
+    margin-right: 17px;
+}.logo__link {
+    font-size: 46px;
+    letter-spacing: 5px;
+    color: #408b04;
+    font-weight: 700;
+    font-family: "Bebas Neue";
+}
+.nav__menu {
+    display: flex;
+    justify-content: center;
+}
+.nav__item {
+    margin-right: 10px;
+}
+.nav__item
+last-chind
