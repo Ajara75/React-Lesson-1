@@ -42,9 +42,9 @@ const Hero = () => {
               leafs hair looking shinier and feeling 10X stronger after just one use.
             </p>
             <span className='hero__price'>US$ 124.0</span>
-            {/* <a href='' className='hero__btn btn'>
+            <a href='' className='hero__btn btn'>
               Shop Now
-            </a> */}
+            </a>
           </div>
         </div>
       </div>
