@@ -1,6 +1,10 @@
 import { Route, Router } from 'react-router-dom';
 import Header from './components/header';
 import Hero from './components/hero';
+import React from 'react';
+import { Route, Router } from 'react-router-dom';
+import Header from './components/header';
+import Hero from './components/hero';
 import Products from './components/products';
 import video from './components/video';
 import subscribe from './components/subscribe';
@@ -19,7 +23,6 @@ const App = () => {
       <Route exact path='/video' component={video} />
       <Route exact path='/subscribe' component={subscribe} />
       <Route exact path='/footer' component={footer} />
-
     </div>
   );
 };

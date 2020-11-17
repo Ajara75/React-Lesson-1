@@ -1,3 +1,4 @@
+import React from 'react';
 import productImg from '../../assets/productflower.png';
 
 function ProductItem(props) {
@@ -23,3 +24,4 @@ function ProductItem(props) {
 }
 
 export default ProductItem;
+
